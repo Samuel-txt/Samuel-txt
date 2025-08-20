@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuel-txt
-- 👀 I’m interested in HTML CSS Javascript and python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Full Stack 
+- 🌱 I’m currently learning Frondend (Html Css Js) Backend (Node.js)
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
